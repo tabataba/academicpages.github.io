@@ -1,7 +1,9 @@
 ---
-title: "2017- : Postdoctoral Research Scholar"
+<!--title: "2017- : Postdoctoral Research Scholar"
 collection: research
 permalink: /research/research-1
+-->
+collection: research
 ---
 
 * 2017- : Postdoctoral Research Scholar
