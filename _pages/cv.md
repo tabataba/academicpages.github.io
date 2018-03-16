@@ -15,17 +15,21 @@ Education
 * M.Sc. in Physics, Technische Universität Berlin, 2013
 * DPhil in Atmospheric Oceanic and Planetary Physics, University of Oxford, 2017
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2017- : Postdoctoral Research Scholar
+  * NASA Jet Propulsion Laboratory, California Institute of Technology
+  * Duties included: Characterizing and understanding polar cyclones on Jupiter, Coordinating Earth-based observation efforts of Jupiter
+  * Supervisor: Glenn S. Orton
+
+
+* 2011-2013: Student Research Assistant
+  * Leibniz Institute for Astrophysics Potsdam (AIP) 
+  * Duties included: software development for integral field spectrometer data reduction tool p3d
+  * Supervisor: Christer Sandin
+
+
   
 Skills
 ======
@@ -54,6 +58,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
