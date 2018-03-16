@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-#About me
-#======
-I am a postdoc at JPL, currently working on the atmosphere dynamics of Jupiter. I am interested in any planet with an atmosphere.
+I am a postdoc at JPL, currently working on the atmosphere dynamics of Jupiter. 
+
+I am interested in any planet with an atmosphere.
 
 Research interests
 ------
