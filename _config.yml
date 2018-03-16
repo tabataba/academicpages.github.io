@@ -79,10 +79,10 @@ analytics:
 # Site Author
 author:
   name             : "Fachreddin Tabataba-Vakili"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "Planetary Scientist, Postdoctoral Reseach Scholar at NASA JPL"
   location         : "Pasadena, CA"
-  employer         :
+  employer         : "https://science.jpl.nasa.gov/people/Tabataba-Vakili/"
   googlescholar    : "https://scholar.google.com/citations?user=-UscFxcAAAAJ&hl=en"
   email            : "fachreddin@gmail.com"
   uri              :
@@ -92,7 +92,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "tabataba"
+  github           : #"tabataba"
   google_plus      :
   keybase          :
   instagram        :
