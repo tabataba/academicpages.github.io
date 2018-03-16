@@ -58,9 +58,5 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Projects
-======
-  <ul>{% for post in site.projects %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
 
