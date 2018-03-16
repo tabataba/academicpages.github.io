@@ -1,6 +1,6 @@
 ---
 collection: research
-title: * 2011-2013: Student Research Assistant
+title: 2011-2013: Student Research Assistant
 ---
 
   * Leibniz Institute for Astrophysics Potsdam (AIP) 
