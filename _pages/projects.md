@@ -19,7 +19,7 @@ Research interests
 
 * Exoplanet habitability, detectability of biomarkers
 
-{% for post in site.projects %}
+<ul>{% for post in site.projects %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %}</ul>
 
