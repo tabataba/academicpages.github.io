@@ -1,11 +1,7 @@
 ---
 title: "2017- : Postdoctoral Research Scholar"
-venue: "NASA Jet Propulsion Laboratory, California Institute of Technology"
 collection: research
-type: "Undergraduate course"
 permalink: /research/research-1
-date: 2014-01-01
-location: "City, Country"
 ---
 
 * 2017- : Postdoctoral Research Scholar
