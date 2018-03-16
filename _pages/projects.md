@@ -7,6 +7,12 @@ author_profile: true
 
 {% include base_path %}
 
+Projects
+------
+  <ul>{% for post in site.projects %}
+    {% include archive-single.html %}
+  {% endfor %}</ul>
+
 Research interests
 ------
 * Planetary atmosphere dynamics, radiative transfer, photochemistry
@@ -19,9 +25,5 @@ Research interests
 
 * Exoplanet habitability, detectability of biomarkers
 
-Projects
-------
-  <ul>{% for post in site.projects %}
-    {% include archive-single.html %}
-  {% endfor %}</ul>
+
 
