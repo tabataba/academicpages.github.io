@@ -2,7 +2,6 @@
 title: ""
 collection: research
 permalink: /research/research-1
-
 ---
 * 2017- : Postdoctoral Research Scholar
   * NASA Jet Propulsion Laboratory, California Institute of Technology
