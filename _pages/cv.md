@@ -29,6 +29,9 @@ Research experience
   * Duties included: software development for integral field spectrometer data reduction tool p3d
   * Supervisor: Christer Sandin
 
+  <ul>{% for post in site.research %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
   
 Skills
