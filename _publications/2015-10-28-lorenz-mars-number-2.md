@@ -1,5 +1,5 @@
 ---
-title: "A Lorenz/Boer energy budget for the atmosphere of Mars from a reanalysis of spacecraft observations"
+title: " "
 collection: publications
 permalink: /publication/lorenz-mars
 excerpt: ' '
