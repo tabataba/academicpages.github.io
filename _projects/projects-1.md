@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Polar vortices on Jupiter"
+excerpt: "Patterns of polar cyclones are located about the poles on Jupiter. How are they generated? Why are they stable? Why don't they merge? I'm currently trying to characterize the long-term behavior of this phenomenon and model their generation and stability mechanisms.<br/><img src='https://www.jpl.nasa.gov/spaceimages/images/largesize/PIA22335_hires.jpg'> Image credit: NASA/JPL-Caltech/SwRI/ASI/INAF/JIRAM"
 collection: projects
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+This is work in progress. More details hopefully soon!
