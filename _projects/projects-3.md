@@ -1,6 +1,6 @@
 ---
 title: "Dynamical circulation regimes of terrestrial atmospheres"
-excerpt: "<br/><img src='/images/500x300.png'>""
+excerpt: "test <br/><img src='/images/500x300.png'>"
 collection: projects
 ---
 
