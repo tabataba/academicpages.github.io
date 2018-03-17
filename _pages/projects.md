@@ -14,7 +14,7 @@ author_profile: true
 * Exoplanet habitability, detectability of biomarkers
 
 Projects
-------
+======
   <ul>{% for post in site.projects %}
     {% include archive-single.html %}
   {% endfor %}</ul>
