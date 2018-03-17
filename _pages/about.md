@@ -9,11 +9,10 @@ redirect_from:
 ---
 
 I am a postdoc at the Jet Propulsion Lab, currently working on the atmosphere dynamics of Jupiter. 
-My interests include any planet with an atmosphere.
 
 Research interests:
 -----
-Planetary atmosphere dynamics, macroturbulence, vortex dynamics radiative transfer, photochemistry
+My interests include any planet with an atmosphere. Currently I'm working on planetary atmosphere dynamics, getting into the vortex dynamics on Jupiter. I'm also interested in atmospheric macroturbulence, mechanical energy budgets, and equatorial waves. I used to work on the detectability of biomarker molecules on exoplanets using photochemical models.
 
 Education:
 -----
