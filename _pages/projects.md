@@ -1,12 +1,14 @@
 ---
 layout: archive
-title: "Research Interests"
+title: ""
 permalink: /projects/
 author_profile: true
 ---
 
 {% include base_path %}
 
+Research Interests
+------
 * Planetary atmosphere dynamics, radiative transfer, photochemistrys
 * Jupiter, polar vortices, vortex crystals, mesoscale waves
 * Geophysical fluid dynamics, planetary circulation regimes, super-rotation, equatorial waves
@@ -14,7 +16,7 @@ author_profile: true
 * Exoplanet habitability, detectability of biomarkers
 
 Projects
-======
+------
   <ul>{% for post in site.projects %}
     {% include archive-single.html %}
   {% endfor %}</ul>
