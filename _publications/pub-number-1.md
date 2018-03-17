@@ -1,8 +1,6 @@
 ---
 title: " "
 collection: list
-excerpt: ' '
-date: ' '
 ---
 
 * A.A. Simon, <b>F. Tabataba-Vakili</b>, R. Costentino, R.F. Beebe, M.H. Wong, G.S. Orton. "Historical and Contemporary Trends in the Size, Drift, and Color of Jupiter’s Great Red Spot" <i>Astronomical Journal</i> 155-4 (2018): 151. doi: 10.3847/1538-3881/aaae01 
