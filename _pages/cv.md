@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-My full Curriculum Vitae can be downloaded here: pdf
+My full Curriculum Vitae can be downloaded here: <u><a href="{{author.googlescholar}}">pdf</a>.</u>
 
 Education
 ======
