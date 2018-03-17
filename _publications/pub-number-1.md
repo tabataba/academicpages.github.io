@@ -1,3 +1,7 @@
+---
+collection: publications
+---
+
 * A.A. Simon, <b>F. Tabataba-Vakili</b>, R. Costentino, R.F. Beebe, M.H. Wong, G.S. Orton. "Historical and Contemporary Trends in the Size, Drift, and Color of Jupiter’s Great Red Spot" <i>Astronomical Journal</i> 155-4 (2018): 151. doi: 10.3847/1538-3881/aaae01 
 * Adriani, A. Mura, G. Orton, C. Hansen, F. Altieri, M.L. Moriconi, J. Rogers, G. Eichstdt, T. Momary, A.P. Ingersoll, G. Filacchione, G. Sindoni, <b>F. Tabataba-Vakili</b>, B.M. Dinelli, F. Fabiano, S.J. Bolton, J.E.P Connerney, S.K. Atreya, J.I. Lunine, F. Tosi, A. Migliorini, D. Grassi, G. Piccioni, R. Noschese, A. Cicchetti, C. Plainaki, A. Olivieri, D. Turrini, S. Stefani, R. Sordini and M. Amoroso "Clusters of cyclones encircling Jupiter’s poles" <i>Nature</i> 555, no. 7695 (2018): 216. doi: 10.1038/nature25491 pdf
 * J.-M. Grießmeier, <b>F. Tabataba-Vakili</b>, A. Stadelmann, J. L. Grenfell, and D. Atri. "Galactic cosmic rays on extrasolar Earth-like planets-II. Atmospheric implications." <i>Astronomy & Astrophysics</i> 587 (2016): A159. doi: 10.1051/0004-6361/201425452 pdf

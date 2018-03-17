@@ -19,6 +19,10 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 * C. Sandin , P. Weilbacher, <b>F. Tabataba-Vakili</b>, S. Kamann, and O. Streicher. “Automated and generalized integral-field spectroscopy data reduction using p3d.” SPIE Astronomical Telescopes+Instrumentation, pp. 84510F-84510F. <i>International Society for Optics and Photonics</i>, 2012. doi: 10.1117/12.926092 pdf
 
 
+  <ul>{% for post in site.publications %}
+    {% include archive-single.html %}
+  {% endfor %}</ul>
+
 <!--
 {% for post in site.publications reversed %}
   {% include archive-single-cv.html %}
