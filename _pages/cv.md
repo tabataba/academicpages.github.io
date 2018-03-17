@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-My full Curriculum Vitae can be downloaded here: <u><a href="{{author.googlescholar}}">pdf</a>.</u>
+My full Curriculum Vitae can be downloaded here: <u><a href="https://tabataba.github.io/files/CV_Fachreddin_Tabataba-Vakili_2018_Mar.pdf">pdf</a>.</u>
 
 Education
 ======
@@ -39,18 +39,6 @@ Research experience
 Publications
 ======
   <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
