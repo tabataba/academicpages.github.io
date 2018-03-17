@@ -205,6 +205,13 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _list
+  - scope:
+      path: ""
+      type: list
+    values:
+      layout: single
+      author_profile: true
   # _teaching
   - scope:
       path: ""
