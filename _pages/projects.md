@@ -9,7 +9,7 @@ author_profile: true
 
 Research Interests
 ------
-* Planetary atmosphere dynamics, radiative transfer, photochemistrys
+* Planetary atmosphere dynamics, radiative transfer, photochemistry
 * Jupiter, polar vortices, vortex crystals, mesoscale waves
 * Geophysical fluid dynamics, planetary circulation regimes, super-rotation, equatorial waves
 * Atmospheric macroturbulence, Lorenz energy cycle, spectral energy flux

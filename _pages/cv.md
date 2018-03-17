@@ -13,9 +13,10 @@ My full Curriculum Vitae can be downloaded here: <u><a href="https://tabataba.gi
 
 Education
 ======
-* B.Sc. in Physics, Technische Universität Berlin, 2011
-* M.Sc. in Physics, Technische Universität Berlin, 2013
 * DPhil in Atmospheric Oceanic and Planetary Physics, University of Oxford, 2017
+* M.Sc. in Physics, Technische Universität Berlin, 2013
+* B.Sc. in Physics, Technische Universität Berlin, 2011
+
 
 Research experience
 ======
