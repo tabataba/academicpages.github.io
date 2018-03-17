@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+My full Curriculum Vitae can be downloaded here: pdf
+
 Education
 ======
 * B.Sc. in Physics, Technische Universität Berlin, 2011
@@ -34,15 +36,6 @@ Research experience
   {% endfor %}
 
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications %}
