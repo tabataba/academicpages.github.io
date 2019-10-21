@@ -51,6 +51,7 @@ Research experience
   
 Publications
 ======
+<u><a href="https://scholar.google.com/citations?user=-UscFxcAAAAJ&hl=en">my Google Scholar profile</a></u>
 * Y. Wang, P.L. Read, <b>F. Tabataba-Vakili</b>, R.M.B. Young. "Comparative terrestrial atmospheric circulation regimes in simplified global circulation models: I. From cyclostrophic superrotation to geostrophic turbulence."  <i>Quarterly Journal of the Royal Meteorological Society</i>. (2018) doi: <u><a href="https://doi.org/10.1002/qj.3350">10.1002/qj.3350</a>.</u>
 * S. Brown, M. Janssen, V. Adumitroaie, S. Atreya, S. Bolton, S Gulkis, A. Ingersoll, S. Levin, C. Li, L. Li, J. Lunine, S. Misra, G. Orton, P. Steffes, <b>F. Tabataba-Vakili</b>, I. Kolmasova, M. Imai, O. Santolik, W. Kurth, G. Hospodarsky, D. Gurnett, J. Connerney. "Prevalent lightning sferics at 600 megahertz near Jupiter's poles" <i>Nature</i> 558, no. 7708 (2018): 87. doi: <u><a href="https://doi.org/10.1038/s41586-018-0156-5">10.1038/s41586-018-0156-5</a>.</u>
 * D. Grassi, A. Adriani, M.L. Moriconi, A. Mura, <b>F. Tabataba-Vakili</b>, A. Ingersoll, G. Orton, C. Hansen, F. Altieri, G. Filacchione, G. Sindoni, B.M. Dinelli, F. Fabiano, S. J Bolton, J.E.P. Connerney, S. Levin, S.K. Atreya, J.I. Lunine, T. Momary, F. Tosi, A. Migliorini, G.Piccioni, R. Noschese, A. Cicchetti, C. Plainaki, A. Olivieri, D. Turrini, S. Stefani, R. Sordini, M. Amoroso. "First estimate of wind fields in the Jupiter polar regions from JIRAM-Juno images." <i>Journal of Geophysical Research - Planets</i>. (2018). doi: <u><a href="https://doi.org/10.1029/2018JE005555">10.1029/2018JE005555</a>.</u>
@@ -61,6 +62,32 @@ Publications
 * J.-M. Grießmeier, <b>F. Tabataba-Vakili</b>, A. Stadelmann, J. L. Grenfell, and D. Atri. "Galactic cosmic rays on extrasolar Earth-like planets-I. Cosmic ray flux." <i>Astronomy & Astrophysics</i> 581 (2015): A44. doi: <u><a href="https://doi.org/10.1051/0004-6361/201425451">10.1051/0004-6361/201425451</a>.</u> <u><a href="https://tabataba.github.io/files/aa25451-14-jm1.pdf">pdf</a>.</u>
 * <b>F. Tabataba-Vakili</b>, P. L. Read, S. R. Lewis, L. Montabone, T. Ruan, Y. Wang, A. Valeanu, and R.M.B. Young. "A Lorenz/Boer energy budget for the atmosphere of Mars from a re-analysis of spacecraft observations." <i>Geophysical Research Letters</i> 42 (2015): 8320-8327. doi: <u><a href="https://doi.org/10.1002/2015GL065659">10.1002/2015GL065659</a>.</u>  <u><a href="https://tabataba.github.io/files/grl53594.pdf">pdf</a>.</u>
 * C. Sandin , P. Weilbacher, <b>F. Tabataba-Vakili</b>, S. Kamann, and O. Streicher. “Automated and generalized integral-field spectroscopy data reduction using p3d.” SPIE Astronomical Telescopes+Instrumentation, pp. 84510F-84510F. <i>International Society for Optics and Photonics</i>, 2012. doi: <u><a href="https://doi.org/10.1117/12.926092">10.1117/12.926092</a>.</u>  <u><a href="https://p3d.sourceforge.io/sandin_2012_ProcSPIE_8451.pdf">pdf</a>.</u>
+
+Presentations and Invited Talks
+=====
+
+2019 Aug. JPL Planetary Science Seminar (Pasadena, CA)
+2019 June Juno Science Talk at Lockheed Martin (Denver, Colorado) INVITED TALK
+2019 Apr. JPL Postdoc Seminar (Pasadena, CA)
+2019 Jan. VPL (Virtual Planet Laboratory) seminar talk (Seattle, WA)
+2018 Dec. American Geophysical Union Fall Meeting 2018 (Washington DC)
+2018 Oct. Harvard CfA Stars an Planets Seminar (Cambridge, MA) INVITED TALK
+2018 Oct. Division for Planetary Sciences Meeting 50 (Knoxville, TN)
+2018 Sept. European Planetary Science Congress 2018 (Berlin, Germany)
+2018 June Asia Oceania Geosciences Society, 15th Annual Meeting (Honolulu, HI) INVITED TALK
+2017 Dec. American Geophysical Union Fall Meeting 2017 (New Orleans, LA)
+2017 Oct. Division for Planetary Sciences Meeting 49 (Provo, UT)
+2016 Oct. Division for Planetary Sciences Meeting 48 / European Planetary Science Congress 11 (Pasadena, CA)
+2016 June TU Berlin ZAA Extrasolar Planet Seminar (Berlin, Germany) INVITED TALK
+2016 June National Astronomy Meeting 2016 (Nottingham, UK)
+2016 Apr. International Venus Conference 2016 (Oxford, UK)
+2016 Feb. Idealised modeling of planetary atmospheres workshop (Exeter, UK)
+2015 Sept. Comparative Climates of Terrestrial Planets II, NASA Ames Research Center (Mountain View, CA)
+2015 Apr. EGU General Assembly Conference 2015 (Vienna, Austria)
+2014 Sept. European Planetary Science Congress 2014 (Cascais, Portugal)
+2014 Mar. German Physics Society annual conference 2014 (Berlin, Germany)
+2013 Mar. 527.Wilhelm und Else Heraeus-Seminar: Plasma and Radiation Environment in Astrospheres and Implications for the Habitability of Extrasolar Planets (Bad Honnef, Germany)
+
 
 <!--
   <ul>{% for post in site.list %}
