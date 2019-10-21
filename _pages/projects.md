@@ -15,7 +15,7 @@ Research Interests
 * Atmospheric macroturbulence, Lorenz energy cycle, spectral energy flux
 * Exoplanet habitability, detectability of biomarkers
 
-Projects
+Featured Research
 ------
   <ul>{% for post in site.projects %}
     {% include archive-single.html %}
