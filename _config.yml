@@ -80,12 +80,12 @@ analytics:
 author:
   name             : "Fachreddin Tabataba-Vakili"
   avatar           : "profile.jpg"
-  bio              : "Planetary Scientist, Postdoctoral Reseach Scholar at NASA JPL"
-  location         : "Pasadena, CA"
+  bio              : "Data Scientist / Research Scientist"
+  location         : "Seattle, WA" #"Pasadena, CA"
   employer         : #"https://science.jpl.nasa.gov/people/Tabataba-Vakili/"
   googlescholar    : "https://scholar.google.com/citations?user=-UscFxcAAAAJ&hl=en"
-  email            : "fachreddin@gmail.com"
-  uri              : "https://science.jpl.nasa.gov/people/Tabataba-Vakili/"
+  email            : "fachtab@gmail.com"
+  uri              : #"https://science.jpl.nasa.gov/people/Tabataba-Vakili/"
   bitbucket        :
   codepen          :
   dribbble         :
